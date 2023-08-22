@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Mechanical",
+    "publishedAt": "2023-07-22T10:00:09Z",
+    "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+    "fees": "200",
+    "duration": "40days",
+    "details": [
+      {
+        "name": "Autocad",
+        "title": "Mechanical",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200/-",
+        "duration": "40days"
+      },
+      {
+        "name": "Catia V5",
+        "title": "Mechanical",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      },
+      {
+        "name": "SolidWorks",
+        "title": "Mechanical",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      },
+      {
+        "name": "Unigraphics",
+        "title": "Mechanical",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      }
+    ]
+  },
+  {
+    "title": "Computer Science",
+    "publishedAt": "2023-07-22T10:00:09Z",
+    "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+    "fees": "200",
+    "duration": "40days",
+    "details": [
+      {
+        "name": "C Programming",
+        "title": "Computer-Science",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200/-",
+        "duration": "40days"
+      },
+      {
+        "name": "C++ Programming",
+        "title": "Computer-Science",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      },
+      {
+        "name": "Java",
+        "title": "Computer-Science",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      },
+      {
+        "name": "Python",
+        "title": "Computer-Science",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      }
+    ]
+  },
+  {
+    "title": "Civil",
+    "publishedAt": "2023-07-22T10:00:09Z",
+    "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+    "fees": "200",
+    "duration": "40days",
+    "details": [
+      {
+        "name": "Autocad",
+        "title": "Civil",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      },
+      {
+        "name": "Revit",
+        "title": "Civil",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      },
+      {
+        "name": "3ds Max",
+        "title": "Civil",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      }
+    
+    ]
+  },
+  {
+    "title": "Electrical",
+    "publishedAt": "2023-07-22T10:00:09Z",
+    "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+    "fees": "200",
+    "duration": "40days",
+    "details": [
+      {
+        "name": "Autocad Electrical",
+        "title": "Electrical",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      },
+      {
+        "name": "PLC",
+        "title": "Electrical",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      },
+      {
+        "name": "Deploma in electrical",
+        "title": "Electrical",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      }
+    
+    ]
+  },
+  {
+    "title": "Comments",
+    "details": [
+      {
+        "id": 1,
+        "image": "../Images/Aishwarya.jpg",
+        "title": "Comments",
+        "name": "Deepika Padukone",
+        "company": "Infosys",
+        "companyImage": "images/maggi.jpg",
+        "date" : "22-06-2023",
+        "description":
+          "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . "
+      },
+    {
+        "id": 2,
+        "image": "../Images/Aishwarya.jpg",
+        "name": "Aishwarya Rai",
+        "date" : "22-06-2023",
+        "title": "Comments",
+        "company": "HCL Technologies",
+        "companyImage": "images/maggi.jpg",
+        "description":
+          "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . "
+      },{
+        "id": 3,
+        "image": "../Images/Aishwarya.jpg",
+        "name": "Salman Khan",
+        "title": "Comments",
+        "date" : "22-06-2023",
+        "company": "Samsung",
+        "companyImage": "images/maggi.jpg",
+        "description":
+          "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . "
+      },{
+        "id": 4,
+        "image": "../Images/Aishwarya.jpg",
+        "name": "Sonam Kapoor",
+        "date" : "22-06-2023",
+        "title": "Comments",
+        "company": "Tata Consultancy Services",
+        "companyImage": "images/maggi.jpg",
+        "description":
+          "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . "
+      },{
+        "id": 5,
+        "image": "../Images/Aishwarya.jpg",
+        "name": "Imran Hashmi",
+        "title": "Comments",
+        "company": "Wipro",
+        "date" : "22-06-2023",
+        "companyImage": "images/maggi.jpg",
+        "description":
+          "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . "
+      },{
+        "id": 6,
+        "image": "../Images/Aishwarya.jpg",
+        "name": "Madhuri Dikshit",
+        "title": "Comments",
+        "date" : "22-06-2023",
+        "company": "Apple",
+        "companyImage": "images/maggi.jpg",
+        "description":
+          "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . "
+      }
+    ]
+  } ,
+  {
+    "title": "Tally",
+    "publishedAt": "2023-07-22T10:00:09Z",
+    "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+    "fees": "200",
+    "duration": "40days",
+    "details": [
+      {
+        "name": "Tally",
+        "title": "Tally",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200/-",
+        "duration": "40days"
+      },
+      {
+        "name": "Tally Ace",
+        "title": "Tally-Ace",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      },
+      {
+        "name": "Tally Pro",
+        "title": "Tally-Pro",
+        "publishedAt": "2023-07-22T10:00:09Z",
+        "content": "One of the best things about summer in our school is our garden. The roses are as red as a blazing fire. The pond is so peaceful when the fountain water is splashing. The tadpoles swim in and out of … [+1140 chars]",
+        "fees": "200",
+        "duration": "40days"
+      }
+    ]
+  } 
+]
+
+
