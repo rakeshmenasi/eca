@@ -24,18 +24,18 @@ function App() {
       <div>
         <Navbar />
         <Routes>
-          <Route exact path="/about" element={<About />} />
-          <Route exact path="/" element={<Index />} />
-          <Route exact path="/contact" element={<ContactPage />} />
-          <Route exact path="/courses" element={<Courses />} />
-          <Route exact path="/students" element={ <Students /> } />
-          <Route exact path="/coursedetails/mech" element={<Mechanical />} />
-          <Route exact path="/coursedetails/civil" element={ <Civil /> } />
-          <Route exact path="/coursedetails/electrical" element={ <Electrical  /> } />
-          <Route exact path="/coursedetails/computer-science" element={ <Computer />} />
-          <Route exact path="/coursedetails/mech" element={<Mechanical />} />
-          <Route exact path="/coursedetails/mech" element={<Mechanical />} />
-          <Route exact path="/coursedetails/mech" element={<Mechanical />} />
+          <Route exact path="/eca/about" element={<About />} />
+          <Route exact path="/eca" element={<Index />} />
+          <Route exact path="/eca/contact" element={<ContactPage />} />
+          <Route exact path="/eca/courses" element={<Courses />} />
+          <Route exact path="/eca/students" element={ <Students /> } />
+          <Route exact path="/eca/coursedetails/mech" element={<Mechanical />} />
+          <Route exact path="/eca/coursedetails/civil" element={ <Civil /> } />
+          <Route exact path="/eca/coursedetails/electrical" element={ <Electrical  /> } />
+          <Route exact path="/eca/coursedetails/computer-science" element={ <Computer />} />
+          <Route exact path="/eca/coursedetails/mech" element={<Mechanical />} />
+          <Route exact path="/eca/coursedetails/mech" element={<Mechanical />} />
+          <Route exact path="/eca/coursedetails/mech" element={<Mechanical />} />
 
         </Routes>
         <Footer />
