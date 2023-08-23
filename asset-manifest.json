@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/eca/static/css/main.defbf0cb.css",
+    "main.js": "/eca/static/js/main.50efc8d8.js",
+    "static/js/787.5360fffe.chunk.js": "/eca/static/js/787.5360fffe.chunk.js",
+    "static/media/code.jpg": "/eca/static/media/code.7d535815e88e29dd7060.jpg",
+    "static/media/contact.png": "/eca/static/media/contact.57fec085255be66dc4e5.png",
+    "static/media/tally-card.png": "/eca/static/media/tally-card.b50a91d8971b748b76b8.png",
+    "static/media/tally-pro-card.jpg": "/eca/static/media/tally-pro-card.2aa6c4bf8387b9f0104d.jpg",
+    "static/media/civil.jpg": "/eca/static/media/civil.0d69fbe36e1a04944865.jpg",
+    "static/media/tallyacecard.jpg": "/eca/static/media/tallyacecard.05a000aa0bd32345abef.jpg",
+    "static/media/basic.jpg": "/eca/static/media/basic.1a0df25c8e9e9acecd33.jpg",
+    "static/media/corel.avif": "/eca/static/media/corel.e031205b9b1cd1c1731c.avif",
+    "static/media/mech.webp": "/eca/static/media/mech.0b94a9e9f48b576820df.webp",
+    "static/media/ps-card.jpg": "/eca/static/media/ps-card.1c1e74c7e91bb1db9004.jpg",
+    "static/media/logo.svg": "/eca/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eca/index.html",
+    "main.defbf0cb.css.map": "/eca/static/css/main.defbf0cb.css.map",
+    "main.50efc8d8.js.map": "/eca/static/js/main.50efc8d8.js.map",
+    "787.5360fffe.chunk.js.map": "/eca/static/js/787.5360fffe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.defbf0cb.css",
+    "static/js/main.50efc8d8.js"
+  ]
+}
