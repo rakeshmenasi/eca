@@ -22,19 +22,19 @@ export default function Footer() {
               <h5 class="text-uppercase">Pages</h5>
               <ul class="list-unstyled mb-0">
               <li >
-                <Link className="text-white" to="/">Home</Link>
+                <Link className="text-white" to="/eca">Home</Link>
               </li>
               <li>
-                <Link className="text-white" to="/courses">Courses</Link>
+                <Link className="text-white" to="/eca/courses">Courses</Link>
               </li>
               <li>
-                <Link className="text-white" to="/about">About Us</Link>
+                <Link className="text-white" to="/eca/about">About Us</Link>
               </li>
               <li>
-                <Link className="text-white" to="/students">Student Corner</Link>
+                <Link className="text-white" to="/eca/students">Student Corner</Link>
               </li>
               <li>
-                <Link className="text-white" to="/contact">Contact Us</Link>
+                <Link className="text-white" to="/eca/contact">Contact Us</Link>
               </li>
               </ul>
             </div>
@@ -70,7 +70,7 @@ export default function Footer() {
         <div
           class="text-center p-3"
         >
-          © 2020 Copyright: 
+          © 2023 Copyright: 
           <a class="text-white" href="https://engineerscomputeracademy.com/">
           engineerscomputeracademy.com
           </a>

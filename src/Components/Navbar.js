@@ -6,7 +6,7 @@ export default function Navbar() {
     <div>
       <nav className="navbar navbar-collapse navbar-expand-lg navbar-dark bg-dark mb-5">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/eca">
             <h4>Engineers Computer Academy</h4>
           </Link>
           <button
@@ -23,27 +23,27 @@ export default function Navbar() {
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <Link className="text-white" to="/">
+                <Link className="text-white" to="/eca">
                   Home
                 </Link>
               </li>
               <li className="nav-item ">
-                <Link className="text-white" to="/courses">
+                <Link className="text-white" to="/eca/courses">
                   Courses
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="text-white" to="/about">
+                <Link className="text-white" to="/eca/about">
                   About Us
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="text-white" to="/students">
+                <Link className="text-white" to="/eca/students">
                   Student Corner
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="text-white" to="/contact">
+                <Link className="text-white" to="/eca/contact">
                   Contact Us
                 </Link>
               </li>

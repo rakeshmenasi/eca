@@ -11,7 +11,7 @@ export default function HowItWorks() {
         <h5 className="my-2">
           Learn skills that matter, get shortlisted easily
         </h5>
-        <Link to="/contact" title="mechanical">
+        <Link to="/eca/contact" title="mechanical">
           <button type="button" className="btn btn-primary mx-3 my-3">
             Contact Us
           </button>
@@ -76,14 +76,14 @@ export default function HowItWorks() {
           <div className="col-md flex flex-col items-center px-12 pt-12 pb-6">
             <span className="material-symbols-outlined fs-1">library_add</span>
             <div className="text-3xl fs-3 fw-bolder font-semibold mb-2 text-center text-theme-red">
-              CADD Centre Overseas
+              Dummy Heading 1
             </div>
             <div className="text-base text-center text-theme-gray ">
               CAD training services in Asia, Africa and the Middle East
             </div>
             <div className="p-5">
               <button type="button" className="btn btn-danger">
-                Danger
+                Read More
               </button>
             </div>
           </div>
@@ -94,14 +94,14 @@ export default function HowItWorks() {
               settings_accessibility
             </span>
             <div className="text-2xl fs-3 fw-bolder font-semibold mb-2 text-center text-theme-red ">
-              CADD Centre Overseas
+            Dummy Heading 2
             </div>
             <div className="text-base text-center text-theme-gray ">
               CAD training services in Asia, Africa and the Middle East
             </div>
             <div className="p-5">
               <button type="button" className="btn btn-danger">
-                Danger
+                Read More
               </button>
             </div>
           </div>
@@ -112,14 +112,14 @@ export default function HowItWorks() {
               change_circle
             </span>
             <div className="text-2xl fs-3 fw-bolder font-semibold mb-2 text-center text-theme-red ">
-              CADD Centre Overseas
+            Dummy Heading 3
             </div>
             <div className="text-base text-center text-theme-gray ">
               CAD training services in Asia, Africa and the Middle East
             </div>
             <div className="p-5">
               <button type="button" className="btn btn-danger">
-                Danger
+                Read More
               </button>
             </div>
           </div>
